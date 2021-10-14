@@ -2,7 +2,7 @@ package com.javaGG.ex;
 
 public class Mycalculator {
 	
-	Calculator cal;
+	Calculator cal; //Calculator 변수 선언
 	private int num1;
 	private int num2;
 	
@@ -11,7 +11,7 @@ public class Mycalculator {
 	}
 
 	public void addition() {
-		cal.add(num1, num2);
+		cal.add(num1, num2); //Calculator 메소드 호출
 	}
 	
 	public void subtraction() {
