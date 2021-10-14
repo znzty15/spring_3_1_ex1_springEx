@@ -1,12 +1,12 @@
 package com.javaGG.ex;
 
-public class Mycalculator {
+public class MyCalculator {
 	
 	Calculator cal; //Calculator 변수 선언
 	private int num1;
 	private int num2;
 	
-	public Mycalculator() {
+	public MyCalculator() {
 		
 	}
 
